@@ -52,10 +52,14 @@ express, body-parser,morgan,mongoose
 ***************************************************************************************************************
 To run you have to Yarn Install, followed by Yarn Start. Application page will be opened on a browser
 Following are a few screenshots
-![](https://github.com/JPillai2018/clickygamereact-jp/blob/master/public/images/ClickyGame-1.PNG)
-![](https://github.com/JPillai2018/clickygamereact-jp/blob/master/public/images/ClickyGame-2.PNG)
-![](https://github.com/JPillai2018/clickygamereact-jp/blob/master/public/images/ClickyGame-3.png)
-![](https://github.com/JPillai2018/clickygamereact-jp/blob/master/public/images/ClickyGame-Won-4.PNG)
-![](https://github.com/JPillai2018/clickygamereact-jp/blob/master/public/images/ClickyGame-Won-5.png)
-![](https://github.com/JPillai2018/clickygamereact-jp/blob/master/public/images/ClickyGame-Won-6.png)
+Landing page. Search result grid contains no data. Saved article grid shows previously saved articles.
+![](https://github.com/JPillai2018/NYTReactSearch/blob/master/public/assets/images/Capture1.PNG)
+Enter a search string and submit
+![](https://github.com/JPillai2018/NYTReactSearch/blob/master/public/assets/images/Capture2.PNG)
+Result of searched articles populated in Result grid
+![](https://github.com/JPillai2018/NYTReactSearch/blob/master/public/assets/images/Capture3.PNG)
+Save articles by clicking the save button. Saved article disappears from result grisd and shows up in saved article grid.
+![](https://github.com/JPillai2018/NYTReactSearch/blob/master/public/assets/images/Capture4.PNG)
+Saved articles can be removed by clicking remove button
+![](https://github.com/JPillai2018/NYTReactSearch/blob/master/public/assets/images/Capture5.PNG)
 ****************************************************************************************************************
