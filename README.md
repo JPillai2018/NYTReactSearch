@@ -62,4 +62,6 @@ Save articles by clicking the save button. Saved article disappears from result 
 ![](https://github.com/JPillai2018/NYTReactSearch/blob/master/public/assets/images/Capture4.PNG)
 Saved articles can be removed by clicking remove button
 ![](https://github.com/JPillai2018/NYTReactSearch/blob/master/public/assets/images/Capture5.PNG)
+Saved articles are in the database
+![](https://github.com/JPillai2018/NYTReactSearch/blob/master/public/assets/images/Capture6.PNG)
 ****************************************************************************************************************
