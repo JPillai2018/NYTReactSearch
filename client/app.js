@@ -13,5 +13,5 @@ ReactDOM.render(
 	(<BrowserRouter>
 		<Route path="/" component={Main} />
 	</BrowserRouter>),
-	document.getElementById("app")
+	document.getElementById("root")
 );

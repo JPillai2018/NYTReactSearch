@@ -42,7 +42,7 @@ class Results extends React.Component {
             return (
               <div key={index} className="row resultsRow" onClick={() => this.handleSubmit(index, obj.headline.main, obj.pub_date, obj.web_url)}>
                 <div className="col-sm-6 articleText">
-                  <a href={obj.web_url}>{obj.headline.main}</a>
+                  <a href={obj.web_url}target={"_blank"}>{obj.headline.main}</a>
                   <a >{obj.byline}</a>
                   <a>{obj.snippet}</a>
                 </div>
